@@ -1,9 +1,9 @@
 require 'spec_helper'
 
 describe Bingoo do
-  describe '.configure' do
+  describe '.configuration' do
     it 'Sets global configuration attributes' do
-      described_class.configure do |config|
+      described_class.configuration do |config|
         config.username = 'test username'
         config.password = '123456'
         config.developer_token = '98765432'
