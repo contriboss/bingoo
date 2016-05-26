@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Radhames Brito"]
   spec.email         = ["rbritom@gmail.com"]
 
-  spec.summary       = %q{Client} to connect to MS's Bing ads services}
+  spec.summary       = %q{Client to connect to MS's Bing ads services}
   spec.description   = %q{Ruby client to Microsoft's Bing ads}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
 
